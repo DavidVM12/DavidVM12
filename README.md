@@ -19,10 +19,10 @@
       
   <p align="center">
   <a href="https://cursos.devtalles.com/certificates/zgjcbha84t">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="75" height="75">
+    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png?width=380" alt="HTML" width="75" height="75">
   </a>
-  <h3 align="center">Título del certificado</h3>
-  <p align="center">Descripción del certificado</p>
+  <h3 align="center">Flutter - Móvil: De cero a experto - Edición
+023</h3>
   <p align="center"><a href="https://cursos.devtalles.com/certificates/zgjcbha84t">Ver certificado</a></p>
   <iframe src="https://cursos.devtalles.com/certificates/zgjcbha84t" width="100%" height="500"></iframe>
 </p>

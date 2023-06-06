@@ -12,10 +12,12 @@
 - 🎆 Solid and clean code
 - 💪 Azure Devops
 
->Certificates and Studies
+>Studies
 
 - 📚 Computer and systems engineering:
-      2021 - at present
+      2021 - at present.
+      
+>Certificates
       
 <h3 align="center">Flutter - Móvil: De cero a experto - Edición 2023</h3>
 <p align="center">

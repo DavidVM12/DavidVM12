@@ -20,6 +20,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=3%/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width=3%/></code>
 </div>
 
 

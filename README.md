@@ -12,6 +12,23 @@
 - 🎆 Solid and clean code
 - 💪 Azure Devops
 
+>Certificates and Studies
+
+- 📚 Computer and systems engineering:
+      2021 - at present
+      
+  <p align="center">
+  <a href="https://cursos.devtalles.com/certificates/zgjcbha84t">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="75" height="75">
+  </a>
+  <h3 align="center">Título del certificado</h3>
+  <p align="center">Descripción del certificado</p>
+  <p align="center"><a href="https://cursos.devtalles.com/certificates/zgjcbha84t">Ver certificado</a></p>
+  <iframe src="https://cursos.devtalles.com/certificates/zgjcbha84t" width="100%" height="500"></iframe>
+</p>
+
+      
+
 <h1 align="center">
   My Skills
 </h1>

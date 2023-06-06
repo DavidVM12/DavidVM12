@@ -26,11 +26,11 @@
   </h1>
 
   <a href="https://github.com/DavidVM12">
-    <img align="center" height="218" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=resalec2045&theme=nord_dark">
+    <img align="center" height="218" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidVM12&theme=nord_dark">
   </a><br><br>
 
   <a href="https://github.com/DavidVM12">
-    <img align="center" height="218" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=resalec2045&theme=nord_dark">
+    <img align="center" height="218" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidVM12&theme=nord_dark">
   </a>
   
 </div>

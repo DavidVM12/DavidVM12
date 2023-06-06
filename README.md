@@ -20,15 +20,20 @@
  <p align="center">
   <h3 align="center">Flutter - Móvil: De cero a experto - Edición 2023</h3>
   <a href="https://cursos.devtalles.com/certificates/zgjcbha84t">
-    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png?width=380" alt="HTML" width="100" height="75" align="center">
+    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png" alt="HTML" width="100" height="75" align="center">
   </a>
    <h3 align="center">Flutter Intermedio: Diseños profesionales y animaciones</h3>
   <a href="https://www.udemy.com/certificate/UC-940058c5-bba8-4f88-9b62-05d1f4cb94a7/">
-    <img src="https://import.cdn.thinkific.com/643563/courses/1966187/jGZVzskwQOmEghJSSyag_Flutter-intermedio2.png?width=380" alt="HTML" width="100" height="75">
+    <img src="https://import.cdn.thinkific.com/643563/courses/1966187/jGZVzskwQOmEghJSSyag_Flutter-intermedio2.png" alt="HTML" width="100" height="75">
   </a>
     <h3 align="center">Legacy - Flutter: Tu guía completa para IOS y Android</h3>
   <a href="https://www.udemy.com/certificate/UC-7705f1dd-a468-4f66-bf7d-e5c20cffae40/">
-    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png?width=380" alt="HTML" width="100" height="75">
+    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png" alt="HTML" width="100" height="75">
+  </a>
+  <h3 align="center">Legacy - Flutter: Tu guía completa para IOS y Android</h3>
+  <a href="https://www.udemy.com/certificate/UC-7e75eeb0-37a9-4e35-a4da-2bbb7ed18c6a/">
+    <img src="https://img-c.udemycdn.com/course/480x270/3389208_d0e1_4.jpg" alt="HTML" width="100" height="75">
+  </a>
 </p>
 
      

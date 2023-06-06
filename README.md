@@ -13,7 +13,7 @@
 - 💪 Azure Devops
 
 <h1 align="center">
-  My knowledges
+  My Skills
 </h1>
 
 

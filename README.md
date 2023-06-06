@@ -17,36 +17,10 @@
 - 📚 Computer and systems engineering:
       2021 - at present
       
- <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <a href="URL_DE_TU_CERTIFICADO">
-    <img src="URL_DE_LA_IMAGEN" alt="TÍTULO_DE_LA_IMAGEN" width="100" height="75">
-  </a>
-  <div style="margin-left: 20px;">
-    <h3>Título del certificado</h3>
-    <p>Descripción del certificado</p>
-    <p><a href="URL_DE_TU_CERTIFICADO">Ver certificado</a></p>
-    <a href="URL_DE_TU_CERTIFICADO">
-    <img src="URL_DE_LA_IMAGEN" alt="TÍTULO_DE_LA_IMAGEN" width="100" height="75">
-  </a>
-  <div style="margin-left: 20px;">
-    <h3>Título del certificado</h3>
-    <p>Descripción del certificado</p>
-    <p><a href="URL_DE_TU_CERTIFICADO">Ver certificado</a></p>
-    <a href="URL_DE_TU_CERTIFICADO">
-    <img src="URL_DE_LA_IMAGEN" alt="TÍTULO_DE_LA_IMAGEN" width="100" height="75">
-  </a>
-  <div style="margin-left: 20px;">
-    <h3>Título del certificado</h3>
-    <p>Descripción del certificado</p>
-    <p><a href="URL_DE_TU_CERTIFICADO">Ver certificado</a></p>
-    <a href="URL_DE_TU_CERTIFICADO">
-    <img src="URL_DE_LA_IMAGEN" alt="TÍTULO_DE_LA_IMAGEN" width="100" height="75">
-  </a>
-  <div style="margin-left: 20px;">
-    <h3>Título del certificado</h3>
-    <p>Descripción del certificado</p>
-    <p><a href="URL_DE_TU_CERTIFICADO">Ver certificado</a></p>
-  </div>
+<div class="grid-container">
+  <div class="grid-item"><img src="ruta/a/imagen1.png"></div>
+  <div class="grid-item"><img src="ruta/a/imagen2.png"></div>
+  <div class="grid-item"><img src="ruta/a/imagen3.png"></div>
 </div>
 
      

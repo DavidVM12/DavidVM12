@@ -18,9 +18,9 @@
       2021 - at present
       
 <div class="grid-container">
-  <div class="grid-item"><img src="ruta/a/imagen1.png"></div>
-  <div class="grid-item"><img src="ruta/a/imagen2.png"></div>
-  <div class="grid-item"><img src="ruta/a/imagen3.png"></div>
+  <div class="grid-item"><img src="https://import.cdn.thinkific.com/cdn-cgi/image/width=380,onerror=redirect/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png"></div>
+  <div class="grid-item"><img src="https://import.cdn.thinkific.com/cdn-cgi/image/width=380,onerror=redirect/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png"></div>
+  <div class="grid-item"><img src="https://import.cdn.thinkific.com/cdn-cgi/image/width=380,onerror=redirect/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png"></div>
 </div>
 
      

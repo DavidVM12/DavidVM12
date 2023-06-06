@@ -6,10 +6,11 @@
 >I'm a student of systems engineer.
 
 - 🔭 Now, I'm working with Flutter/Dart
-- 🏍️ knowledge in java/POO/JavaFx
-- 🪟 Knowledge in MVC
-- 🙉 Knowledge in Hexagonal architecture
-- 🎆 Knowledge in solid and clean code
+- 🏍️ java/POO/JavaFx
+- 🪟 MVC
+- 🙉 Hexagonal architecture
+- 🎆 Solid and clean code
+- 💪 Azure Devops
 
 <h1 align="center">
   My knowledges
@@ -21,6 +22,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width=3%/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width=3%/></code>
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width=3%/></code>
+  <code><img src="https://zeevector.com/wp-content/uploads/Microsoft-Azure-DevOps-logo.png" width=3%/></code>
 </div>
 
 

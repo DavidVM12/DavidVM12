@@ -20,7 +20,7 @@
  <p align="center">
   <h3 align="center">Flutter - Móvil: De cero a experto - Edición 2023</h3>
   <a href="https://cursos.devtalles.com/certificates/zgjcbha84t">
-    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png?width=380" alt="HTML" width="100" height="75">
+    <img src="https://import.cdn.thinkific.com/643563/courses/2177248/7Untxgx4QDqYhbWQgOUc_FLUTTER-NEW-COVER.png?width=380" alt="HTML" width="100" height="75" align="center">
   </a>
    <h3 align="center">Flutter - Móvil: De cero a experto - Edición 2023</h3>
   <a href="https://cursos.devtalles.com/certificates/zgjcbha84t">

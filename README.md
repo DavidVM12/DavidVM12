@@ -32,7 +32,7 @@
   </a>
   <h3 align="center">Flutter - How to Build an Ultimate Responsive App</h3>
   <a href="https://www.udemy.com/certificate/UC-7e75eeb0-37a9-4e35-a4da-2bbb7ed18c6a/">
-    <img src="https://img-c.udemycdn.com/course/480x270/3389208_d0e1_4.jpg" alt="HTML" width="100" height="75" align="center">
+    <img src="https://img-c.udemycdn.com/course/480x270/3389208_d0e1_4.jpg" alt="HTML" width="300" height="200" align="center">
   </a>
 </p>
 

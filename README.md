@@ -26,7 +26,7 @@
   </h1>
 
   <a href="https://github.com/DavidVM12">
-    <img align="center" height="225" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidVM12&theme=nord_dark">
+    <img align="center" height="218" width="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidVM12&theme=nord_dark">
   </a><br><br>
 
   <a href="https://github.com/DavidVM12">

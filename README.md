@@ -1,11 +1,6 @@
 <h1 align="center">
   Hi! <img src="https://user-images.githubusercontent.com/57642291/115981321-b7a44c80-a58a-11eb-8109-79aa8bcf0698.gif" width="25px"> I am David Velasco
 </h1>
-
-<div>
-     <img src="https://komarev.com/ghpvc/?username=resalec2045&color=blue&style=plastic">
-     <img src="https://img.shields.io/static/v1?label=Discord&message=resalec2045%239811&color=blue&style=plastic">
-</div>
 <br>
 
 >I'm a student of systems engineer.

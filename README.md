@@ -5,7 +5,11 @@
 
 >I'm a student of systems engineer.
 
-- 🔭 Actually, I'm working with Flutter/Dart
+- 🔭 Now, I'm working with Flutter/Dart
+- 🏍️ knowledge in java/POO/JavaFx
+- 🪟 Knowledge in MVC
+- 🙉 Knowledge in Hexagonal architecture
+- 🎆 Knowledge in solid and clean code
 
 <h1 align="center">
   My knowledges
